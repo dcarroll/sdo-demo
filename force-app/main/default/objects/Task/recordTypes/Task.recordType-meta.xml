@@ -29,10 +29,6 @@
             <fullName>Not Started</fullName>
             <default>true</default>
         </values>
-        <values>
-            <fullName>On Hold</fullName>
-            <default>false</default>
-        </values>
     </picklistValues>
     <picklistValues>
         <picklist>Subject</picklist>
@@ -69,10 +65,6 @@
         </values>
         <values>
             <fullName>Other</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Prep</fullName>
             <default>false</default>
         </values>
     </picklistValues>
