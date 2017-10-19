@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HR_Master_Job_Definition__c</fullName>
+    <externalId>false</externalId>
+    <label>Master Job Definition</label>
+    <length>30</length>
+    <referenceTo>Jobs__x</referenceTo>
+    <relationshipLabel>Job Requisitions</relationshipLabel>
+    <relationshipName>Job_Requisitions</relationshipName>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>ExternalLookup</type>
+</CustomField>

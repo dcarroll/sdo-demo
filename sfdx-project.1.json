@@ -1,0 +1,37 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true
+        },
+        {
+            "path": "logic",
+            "id": "0HoB00000004CFuKAM",
+            "versionName": "v 1.2",
+            "versionDescription": "ver 1.2 - anc = 1.1",
+            "versionNumber": "1.2.0.NEXT",
+            "ancestorId": "05iB00000004CIeIAM",
+            "dependencies": [
+                {
+                    "packageId": "0HoB00000004CFpKAM",
+                    "versionNumber": "1.2.0.LATEST"
+                },
+                {
+                    "packageId": "0HoB00000004CFkKAM",
+                    "versionNumber": "1.2.0.LATEST"
+                }
+            ],
+            "features": "MultiCurrency",
+            "orgPreferences": {
+                "enabled": [
+                    "S1DesktopEnabled",
+                    "Translation"
+                ],
+                "disabled": []
+            }
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "41.0"
+}

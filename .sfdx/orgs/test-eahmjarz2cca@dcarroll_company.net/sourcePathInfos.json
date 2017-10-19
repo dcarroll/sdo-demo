@@ -1,0 +1,2147 @@
+[
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508432253000,
+            "changeTime": 1508432253000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default",
+            "isDirectory": true,
+            "size": 476,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "93949680bfcc659743254496afb84eb8492ba84a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "9e18f1a26a82a74eb61d272f271d59c3b659b4c9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/applications/HR.app-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/applications/HR.app-meta.xml",
+            "isDirectory": false,
+            "size": 567,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "df41b454d7c1b087283d0ac616febe7c56cc0587",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/applications/Recruiting.app-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/applications/Recruiting.app-meta.xml",
+            "isDirectory": false,
+            "size": 3139,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "094fb7f4480dac16f337b6b173e97cb05375557b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "acbbb9552440bad289de9e604286b79d1ace3d17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "91b00042ade9e90829582cd5c11e33e9c7a6850f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit/ReferralSubmit.cmp",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit/ReferralSubmit.cmp",
+            "isDirectory": false,
+            "size": 836,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c15ffb653895ca0ee7e0370d685bb795f81d98bd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit/ReferralSubmit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit/ReferralSubmit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 217,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "a71758f66683c213c5802d04fcba05d1623ef029",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit/ReferralSubmitController.js",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/aura/ReferralSubmit/ReferralSubmitController.js",
+            "isDirectory": false,
+            "size": 1839,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "9eef15a15ee2888f35d22f85d8f5aecb32d021e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "331b3505eeb171e988432ab54afe8b35ad343585",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/classes/ReferralSubmit.cls",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/classes/ReferralSubmit.cls",
+            "isDirectory": false,
+            "size": 1403,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "1de99950569eb8dad9a53bb1bc0680f99130560f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/classes/ReferralSubmit.cls-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/classes/ReferralSubmit.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/dataSources",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/dataSources",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6b956c277d843cd8ff82b658732f3e4d67a4add9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/dataSources/Workday.dataSource-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/dataSources/Workday.dataSource-meta.xml",
+            "isDirectory": false,
+            "size": 610,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "9f5367f17d3ae1955b6b6490c50fb0b621e499ba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "38343c1dce228c7ceb58ce4b9f3808c0386fe812",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages/Job_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages/Job_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2605,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "57c4ae5fc2f1f120c75a85a8bba2ad4d184798c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages/Recruiting_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages/Recruiting_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 384,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ea4e7cce9c17aab5f509a61ae57c63fc4a5f7b5c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages/Referral_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/flexipages/Referral_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 5051,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "bda56f38588c6b681b1a964c5f505f7295d007a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "825ede571cfb5c19b7abd81de37fd28fa5033491",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/HR_Applicant__c-Applicant Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/HR_Applicant__c-Applicant Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8701,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "2f76edd70486c0df381086e4e8f7eef708df5d60",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/HR_Job_Requisition__c-Job Requisition Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/HR_Job_Requisition__c-Job Requisition Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9767,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "82f34e6cf95873164c6cff839ec773c9a82df5e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/Jobs__x-Jobs Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/Jobs__x-Jobs Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 6190,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "fc92344dbfaca00cf080992675033ed0d63a1678",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/Referral__c-Referral Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/Referral__c-Referral Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 6950,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "9bbcbe75a09d68a50b9738f20592723c2768c5e6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/Scores__x-Scores Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/layouts/Scores__x-Scores Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1293,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c115b9b43ad872400d8397760406836e119c07e0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "2f31cc6871296ef6e2de16a27627b59547d1a40c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "80f08445de636afb0ab444d344ac009553270b80",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/HR_Applicant__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/HR_Applicant__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2979,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ed67d57ee0490348f265cc583c67a46965ec0a52",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields",
+            "isDirectory": true,
+            "size": 782,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "809faa6b70b7357282f831e17506ad3ddc41e5bd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/External_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/External_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "f2a6f5a7d38d4ec8ee101f3436c6dc9d357a3f98",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Applicant_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Applicant_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 497,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "7f39684143b5113adc569f2030e7c40f23590ff0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Contact__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 553,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "4a6415cb2fdc472cc06fe59c4791eefe0cd20b0b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Current_Employer__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Current_Employer__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "7bbeb7385744efa55538764224ff07036f511a0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Current_Title__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Current_Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 461,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6cd16b0d487d5b1dce7df702db9c6b2f32ded7a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Education__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Education__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2188,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "4e9b4ccde21b6927e303c968380b3e7d89206bc4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Email__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "610ea5f5390695c4b6b84d627148f80bb6fbf2c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Headshot_Url__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Headshot_Url__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "16b70c5ec8880769ba800c412094ec5a08cedbf4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Hiring_Manager__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Hiring_Manager__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 558,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "5e62a220a3abf07f74e301047dbdb2c9af97f50f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "0b29e621ac73f9c18c846e9d346f209e6b4bc3e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_City__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "280a6756e706f8aa57ff138729e2efaead15c243",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_Postal_Code__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_Postal_Code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "3e7a86790c31ddf2ba791c4c8619605c66b33db7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_State__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 461,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "f9ab392d1a6955630463f3d75cc0f7cce900342f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_Street__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mailing_Street__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "9c9c6c5fd60f73f71d33bbd318dbc4fdfe754217",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Manager_Experience__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Manager_Experience__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "1c406252cb3162acdac490efa9f13ec58493970c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mobile_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "19b7eeae183793ad35341eacd4bd458db126f14c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Position__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Position__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ab74b83ead4213ffe9deb06bec03affc2e0686e6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Resume__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Resume__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "cb81df22d26d8e3562cbbaa99c54e21917c3ff29",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1730,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "d028fff638b74cee0826b2643e8a444790221c43",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_US_Citizen__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_US_Citizen__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6d230d044799876db417287b910addba13982f43",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Visa_Required__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/fields/HR_Visa_Required__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "72e15ff22d27c18e6cdbfb9ee8c7c3c1e70e8a7d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "d2b0d8b7792b1dcd37dfc024363146cb04c679c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_Active_Applicants.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_Active_Applicants.listView-meta.xml",
+            "isDirectory": false,
+            "size": 691,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "7c736b6ce6215b404d77529734f4e6dc8b3f8939",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_Hired_Applicants.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_Hired_Applicants.listView-meta.xml",
+            "isDirectory": false,
+            "size": 651,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "8d7ee0439fb28722bf828209a0f3124c06354c65",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_New_Applicants.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_New_Applicants.listView-meta.xml",
+            "isDirectory": false,
+            "size": 787,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ee6ad9cb21dc851d9b958f4c956a240973f09213",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_Rejected_Applicants.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Applicant__c/listViews/HR_Rejected_Applicants.listView-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "e5a031e322e35a5161cb1242292d0be123757ea4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "0b283fdb18291a98cf083a793b34ccb52627990a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/HR_Job_Requisition__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/HR_Job_Requisition__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 3225,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "74b1e3ba80822d2d7e0cfc78f992de32534237bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields",
+            "isDirectory": true,
+            "size": 646,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6d939aaabbe3c1b31c78497f315b23e104a44e7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/External_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/External_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 492,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "a3a671eb1c78ebca1278e09e3de01701b7109344",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Close_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Close_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "1e08a59d017355e0caf0aebbe74b22d86f373d9d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Contact__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 688,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ea1115d8ec9c77bf4754f06a72fccea19ffe78ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Days_Open__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Days_Open__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 614,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "05e7f47303802dc865c34e39032fe415bf1d5376",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "a68994531545e7313734310d297f2619e77aca64",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Functional_Area__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Functional_Area__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2372,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "f0fd1ad1d894bb7b6a47c3b534d99ccae420026d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Hire_by_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Hire_by_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "e52a4604a9312607e8cac5712dc60b50e829bce6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Hiring_Manager__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Hiring_Manager__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 732,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "af9459fe966b5cd9782103f8b69712110609369d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "0b29e621ac73f9c18c846e9d346f209e6b4bc3e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Master_Job_Definition__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Master_Job_Definition__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 585,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "8ec97fc06d36a560060e89330cb7f57f72fa02a3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Max_Pay__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Max_Pay__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "f59913a7bf0e8b5099abd22c3dafa470a1e41c9f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Min_Pay__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Min_Pay__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c158c97aca7f22ed36734b030069d2c1e596d680",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Rec_Open__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Rec_Open__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "b827c69907de5d13ada335876784692c1a82a1a5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1210,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "661b02e353deaf6e4136eae1a263560eee939ac7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Travel_Required__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Travel_Required__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 425,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "22c0b5a21d129320097d1f36f5ae0dd81bcccb75",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/HR_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1368,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "2b8be5d136082e65249b734e2e544e685b9198f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/Position_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/fields/Position_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 492,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "84a3aa916e71c3a26b3ff23777d29f7c68cfd89c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/listViews",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "fa951a5d755f36e3aeb08b9701efb358e8949557",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/listViews/HR_Open_jobs.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/HR_Job_Requisition__c/listViews/HR_Open_jobs.listView-meta.xml",
+            "isDirectory": false,
+            "size": 640,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "1122ff7dd791c48c442fe77b6b64a7c30ce79ec0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "be1fbe931200f0a1487f32e15b547e89aede25d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/Jobs__x.object-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/Jobs__x.object-meta.xml",
+            "isDirectory": false,
+            "size": 2498,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ab5f2ee20f8193be758c0baabbd6d2a9b83d3c1c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields",
+            "isDirectory": true,
+            "size": 612,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ccdf3b999c9a8550bb779e1a220b031d8b7887a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Compensation_frequency__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Compensation_frequency__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 663,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "936c00b38c7ecc3f2f5730b1b05912a623ef9489",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Currency__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Currency__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 607,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "74d42e36b0a2b2851f893aeeecd94973be91e7be",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Employee_type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Employee_type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6a975e1c5a96804ac923bb1f18687afc65a93f58",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Grade_level__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Grade_level__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 619,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c81a68b52c7711ef251fc1fa5b430a16b7f8d495",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 611,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "a9f75447c3d9f34dbdf6edeed1e73482e62f22a8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_category__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_category__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 623,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ac0683ee128a74ca03737dad7a6944bc5706494c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_code__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_code__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 607,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "29c3d7f9677a1700ccface1be12a969f9ed7016b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 635,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "69857021f52a5c35fe08a6028aeee9998d0f843e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_family__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_family__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 615,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "de60f6b8c4d78abaebee638c4d38d915cf9e85e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 615,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "d672b834e03d86ace41ee421b1c70c5dbdab6914",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_title__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Job_title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 610,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ebd285b4d48e783e118cce77e32a55815ead4b9f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Maximum_salary__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Maximum_salary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 631,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c8f165d64ead1bbaf10165a6f031d13ea726063e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Mid_point_salary__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Mid_point_salary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 639,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "d733c6f358dc35a6c2d214309b7aef835bc0dda4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Minimum_salary__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Minimum_salary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 631,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "3b098a1420e2b72bd85bb1f95af65c164cc65f90",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Standard_hours__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Standard_hours__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 631,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "4716bd0cd71fb4475519464d5feb8ec178dbd3f4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Standard_work_period__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/fields/Standard_work_period__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 655,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "bc463cad9bf37eeb4a7ba537fa58e9f69aa39f05",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/listViews",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Jobs__x/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "646c6bc691e1896d8a8bdd4624066b56da054da5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "bafec3b2472b08554eb8b61ce7ff63cc111918a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/Referral__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/Referral__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 3413,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "865f610071bedcf18cb2b2bf3b681a95cc2c2edf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "06c4e0391550ba2714eda29807963b88e62543ce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Candidate_ID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Candidate_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "9a11ca8f22f37a2d66843f041764acf93053b637",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Email__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 379,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "4cf558a92cd46073b9cabde319e700ac204ac1e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/First_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/First_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 412,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6cb53963aa799bb12901877943e50980ad1df3fa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 494,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "88a09a2e049020c4ea211748d092d4d8a83e8cc3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Last_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Last_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "58e875f3bd7b9eb6669f656f7282cfe0ed689c06",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Phone__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 352,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c69f91c520854e3d0395f49fdd664dc1965b43d2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1310,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6baac83dc9b191cd336e5f2411f416415b3d31e7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/listViews",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Referral__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "67eff61dcc0e0d03ee240d5180e82853ff8508f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "8f138458c16b7e3ef1a80964ca9a8faa085cf6aa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/Scores__x.object-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/Scores__x.object-meta.xml",
+            "isDirectory": false,
+            "size": 1471,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "5b52f3908fa3ee8040a236803e2c607da166492e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "d6f43733bc512bb1d30c8c807e58c1a4dda02f49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Attribute__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Attribute__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 564,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c2f17f60a52dd752e706ae54a9f029a11f7384fa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Candidate__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Candidate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 735,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6291b03e6d0bda5f34815145037068ec0e04c33c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Id__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 564,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "6a288bf477d6375b9efe525c2b382d2af91e69e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Score__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Scores__x/fields/Score__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 576,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c654652b98b7940a61e41865f0b37a0ab60009ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "b37d759d299bba45d073405a4a4a98cf0f753adf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task/Task.object-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task/Task.object-meta.xml",
+            "isDirectory": false,
+            "size": 103,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task/recordTypes",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task/recordTypes",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "87fbdaf53502bed5f008466c7aa3a4122182dff9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task/recordTypes/Task.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/objects/Task/recordTypes/Task.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2257,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "69b86941eb64566cef0cde2023be688b82c3b9cb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "571b0b61fe102422dd58bbfa700d4062a096f632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/HR_Applicant__c.Update_Status.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/HR_Applicant__c.Update_Status.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 939,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "47dbc93756dd84347b796abffe4f998d7c04d674",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/HR_Job_Requisition__c.Update_Status.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/HR_Job_Requisition__c.Update_Status.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 939,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "47dbc93756dd84347b796abffe4f998d7c04d674",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/Jobs__x.RecordId_Test.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/Jobs__x.RecordId_Test.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 351,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "20543c4565358422a7b3751e4e3f56e238a6f1d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/NewEvent.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/NewEvent.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 2184,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "dd05dbdf4e3f5121e1a9810dc270944651d49e9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/NewTask.quickAction-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/quickActions/NewTask.quickAction-meta.xml",
+            "isDirectory": false,
+            "size": 1803,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "953942a5199ff1e1b8f28bb121f6b91414e752d0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reportTypes",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reportTypes",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "8d34db1559bc4993b01d3225a49ead23af09958b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reportTypes/Referrals_with_Scores.reportType-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reportTypes/Referrals_with_Scores.reportType-meta.xml",
+            "isDirectory": false,
+            "size": 3862,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "f9beb53e4c539d8e9fba164fff7a2843aff72799",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "608ab33e8fa17b8195c1f16efe3cfc3137972673",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports/Referral_Reporting",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports/Referral_Reporting",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "ea8e3cae39b8fd20518d119db34217282b3af0e8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports/Referral_Reporting/Referrals_with_Scores.report-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports/Referral_Reporting/Referrals_with_Scores.report-meta.xml",
+            "isDirectory": false,
+            "size": 1866,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "a432e01e31b1c47fddfd8325477f3a6f86b74531",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports/Referral_Reporting.reportFolder-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/reports/Referral_Reporting.reportFolder-meta.xml",
+            "isDirectory": false,
+            "size": 154,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "4c745ef5591c373567d15b891db79dd9c68467e9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "315596cf4ae54e6ec1a92b6dafa1747076f0bf87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/HR_Applicant__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/HR_Applicant__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "df332dd5fb149a110f418000aaf0e5a91330c5be",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/HR_Job_Requisition__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/HR_Job_Requisition__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 284,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "492608e34576140a0ad5fd4b8e6e3808de519a27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/Jobs__x.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/Jobs__x.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "913d7fb2c0e98475059f7da372942d5e08037a38",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/Referral__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/tabs/Referral__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "c50adc847e28ce70b3f306ad5b86299fd38fc876",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "5d96e48313431bdb02c46e1d2149714e8b44e9a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/triggers/ReferralTrigger.trigger",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/triggers/ReferralTrigger.trigger",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "3cf15bf94fff178d04d46119c91a2ea98f35b4e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/triggers/ReferralTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo/force-app/main/default/triggers/ReferralTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1508450304000,
+            "changeTime": 1508450304000,
+            "contentHash": "cc4783bd7bb88d6bcbcebf01869690edeaa89d5c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/dcarroll/Documents/Projects/SFDX/dxsdo",
+        {
+            "sourcePath": "/Users/dcarroll/Documents/Projects/SFDX/dxsdo",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1508450211000,
+            "changeTime": 1508450211000,
+            "contentHash": "073f1b3cc9e7fa79667b44df407216223bf6b829",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

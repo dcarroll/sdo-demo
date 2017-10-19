@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>HR_Open_jobs</fullName>
+    <columns>NAME</columns>
+    <columns>HR_Type__c</columns>
+    <columns>HR_Location__c</columns>
+    <columns>HR_Rec_Open__c</columns>
+    <columns>HR_Hire_by_Date__c</columns>
+    <columns>HR_Days_Open__c</columns>
+    <columns>HR_Max_Pay__c</columns>
+    <columns>HR_Min_Pay__c</columns>
+    <columns>HR_Status__c</columns>
+    <columns>HR_Travel_Required__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Open Job Requisitions</label>
+    <language>en_US</language>
+</ListView>
