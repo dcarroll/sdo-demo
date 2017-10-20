@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "HR_Job_Requisition__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "HR_Job_Requisition__cs.json"
+        ]
+    },
+    {
+        "sobject": "HR_Applicant__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "HR_Applicant__cs.json"
+        ]
+    }
+]

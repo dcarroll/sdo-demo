@@ -1,0 +1,158 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef1"
+            },
+            "Name": "test"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef2"
+            },
+            "Name": "Solution Engineer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef3"
+            },
+            "Name": "Senior Sales Representative"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef4"
+            },
+            "Name": "Sales Associate"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef5"
+            },
+            "Name": "Customer Service Representative"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef6"
+            },
+            "Name": "Business Analyst"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef7"
+            },
+            "Name": "Senior Web Developer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef8"
+            },
+            "Name": "Project Architect"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef9"
+            },
+            "Name": "Application Developer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef10"
+            },
+            "Name": "Marketing Manager"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef11"
+            },
+            "Name": "Business Reporting Developer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef12"
+            },
+            "Name": "Web Developer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef13"
+            },
+            "Name": "Senior Sales Engineer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef14"
+            },
+            "Name": "HR Analyst"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef15"
+            },
+            "Name": "Mobile Application Developer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef16"
+            },
+            "Name": "Senior Strategic Account Manager Service Cloud"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef17"
+            },
+            "Name": "Senior Director, Product Marketing Sales Cloud"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef18"
+            },
+            "Name": "Account Executive"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef19"
+            },
+            "Name": "Senior Solution Engineer"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef20"
+            },
+            "Name": "Strategic Account Manager"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef21"
+            },
+            "Name": "Senior Product Manager"
+        },
+        {
+            "attributes": {
+                "type": "HR_Job_Requisition__c",
+                "referenceId": "HR_Job_Requisition__cRef22"
+            },
+            "Name": "Financial Analyst"
+        }
+    ]
+}

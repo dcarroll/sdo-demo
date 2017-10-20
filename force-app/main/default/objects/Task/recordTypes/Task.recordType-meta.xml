@@ -53,11 +53,11 @@
         <picklist>Type</picklist>
         <values>
             <fullName>Call</fullName>
-            <default>true</default>
+            <default>false</default>
         </values>
         <values>
             <fullName>Email</fullName>
-            <default>false</default>
+            <default>true</default>
         </values>
         <values>
             <fullName>Meeting</fullName>

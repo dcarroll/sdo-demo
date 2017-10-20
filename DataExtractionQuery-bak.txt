@@ -1,0 +1,27 @@
+SELECT 
+    Id, Name, 
+    (SELECT 
+        Id, 
+        HR_Applicant_ID__c, 
+        HR_Current_Employer__c, 
+        HR_Current_Title__c, 
+        HR_Education__c, 
+        HR_Email__c, 
+        HR_Headshot_Url__c, 
+        HR_Location__c, 
+        HR_Mailing_City__c, 
+        HR_Mailing_Postal_Code__c, 
+        HR_Mailing_State__c, 
+        HR_Mailing_Street__c, 
+        HR_Manager_Experience__c, 
+        HR_Mobile_Phone__c, 
+        HR_Position__c, 
+        HR_Resume__c, 
+        HR_Status__c, 
+        HR_US_Citizen__c, 
+        HR_Visa_Required__c, 
+        External_ID__c, 
+        Name 
+    From HR_Applicants__r) 
+FROM 
+    HR_Job_Requisition__c
