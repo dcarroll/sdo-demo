@@ -1,5 +1,6 @@
 !#/bin/bash
 
+git checkout -b testing
 sfdx force:org:create -s -a dxsdo -f config/project-scratch-def.json
 sfdx force:source:push
 sfdx force:user:permset:assign -n Recruiting
