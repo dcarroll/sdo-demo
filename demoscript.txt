@@ -1,0 +1,50 @@
+Demo Script
+As a Salesforce customer we have a production instance with many customizations and applications in it.
+
+The first step is to identify an application that we want to do development on.  In our case it's the HR/Recruiting Apps.  Because our source of truth for this app is currently our org (we have never pulled the source out to store it in a SCC system) we can easily create a package using the Salesforce packaging UI and tools.
+
+As a one time task, we will pull the package down locally bringing all of our source to the local machine.  Once we have the source locally in metadata format, we can now convert it to source format. 
+
+No that we have the source representation, we get get rid of the metadata representation. From here forward we will be using DX for continued development of the app. Now is a good time to do an initial checkin of the source to source control.  We are using github for our source control so we can easily run common commands to check the source in.
+
+We also want to provide some sample data from our production org so we can run a data export to grab just enough data for development purposes.  We can commit that to source control now too.
+
+In addition to the data, we also need to set up a few commands that put a bit of fit and finsh on the data.  We can script some Apex code to do that.
+
+We now have a pretty decent, sharable code base from which we can now work.
+
+So, let's shift gears.  As a developer I've been asked to enhance the Job Requisition page to include a new UI element that shows potential candidates in a visual way.
+
+Starting from a new workspace, we can start with our source in our source control repository.
+    - git clone repository
+    - cd repository
+    - change to a new branch
+
+I'm going to use VS Code to create the UI to use for the task.  I'll be working within that environment for the rest of the demo.
+    - create new lightning component
+    - cut and paste code 
+
+The development process involves both coding and some declarative work.  So let's create a scratch org so that we can build and test the new ui.
+    - create new scratch org
+    - run the permset assign
+    - run the data import
+    - run the apex scripts
+    - run a push operation
+    - open the scratch org
+    - finish the dev.
+    - pull the changes.
+    - commit to git
+
+Of course, we need to get sign off on the work down so let's create a package so that we can deploy to production.
+    - create new package
+    - create new package version
+    - authenticate to sandbox
+    - install the package to sandbox
+
+Once we have gotten sign off on the changes, we can merge our source branch back into our master branch.
+
+Using github hooks for automation our package will be automatically published to our production org.
+
+<end>
+Start in DX-SDO
+    This is our production org.
