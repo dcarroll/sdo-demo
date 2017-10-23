@@ -12,3 +12,5 @@ certs/server.csr
 .sfdx/tools/apex.db
 
 Jobs_data.json
+
+history.txt
