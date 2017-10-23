@@ -56,7 +56,7 @@
     <externalSharingModel>ReadWrite</externalSharingModel>
     <label>Jobs</label>
     <nameField>
-        <label>Name</label>
+        <label>Job Title</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
         <type>Text</type>

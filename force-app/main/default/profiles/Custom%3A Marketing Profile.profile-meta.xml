@@ -10,6 +10,18 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>ApplicantPagedController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>CandidateController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>ReferralSubmit</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
@@ -316,6 +328,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>HR_Job_Requisition__c-Job Requisition Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Job__c-Job Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Jobs__c-Jobs Layout</layout>
