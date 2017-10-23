@@ -6,7 +6,7 @@ public class ReferralSubmit {
         system.debug(ref);
         system.debug(ref.Job__c);
         //query the job?
-        list<jobs__x> jobs = [select id__c from jobs__x where id=:ref.Job__c];
+        list<jobs__c> jobs = [select id__c from jobs__c where id=:ref.Job__c];
         if (jobs.size()>0){
         	ref.Job__c = string.valueof(jobs[0].id__c);
             ref.Status__c = 'Reviewing';

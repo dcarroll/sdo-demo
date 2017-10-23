@@ -227,7 +227,7 @@ HR_Close_Date__c - HR_Rec_Open__c )</formula>
         <externalId>false</externalId>
         <label>Master Job Definition</label>
         <length>30</length>
-        <referenceTo>Jobs__x</referenceTo>
+        <referenceTo>Jobs__c</referenceTo>
         <relationshipLabel>Job Requisitions</relationshipLabel>
         <relationshipName>Job_Requisitions</relationshipName>
         <trackFeedHistory>false</trackFeedHistory>

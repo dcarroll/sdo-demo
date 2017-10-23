@@ -5,154 +5,361 @@
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef1"
             },
-            "Name": "test"
+            "Name": "test",
+            "HR_Hire_by_Date__c": "2016-10-04",
+            "HR_Rec_Open__c": "2016-07-06",
+            "HR_Travel_Required__c": false,
+            "Position_ID__c": "test"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef2"
             },
-            "Name": "Solution Engineer"
+            "Name": "Solution Engineer",
+            "HR_Description__c": "So here&#39;s what we&#39;re looking for <br><br>The Solution Engineer works with Account Executives on new and existing accounts. Ideal candidates have previous experience working with CRM or related applications in a customer facing role, and have the ability to effectively communicate the value of salesforce.com&#39;s solutions (both functionally and technically) to prospective customers. This includes the ability to uncover business requirements, develop a technical sales strategy, and create and effectively demonstrate solutions that address customer requirements. This role works in a fast-paced high-energy market segment and candidates should be able to successfully balance multiple projects in a team-selling environment. <br>  <br><b>Responsibilities </b>\n<ul><li>Understand customer goals and challenges and establish Salesforce.com &#39;s product as the best solution available </li><li>Build and present customized demonstrations using salesforce.com  technology </li><li>Present  Salesforce.com  technology infrastructure, including demonstrating familiarity with typical hardware, software, networking and security technologies </li><li>Participate in all product, sales, and process training and certification to acquire and maintain the knowledge necessary to be effective </li><li>Attain quarterly and annual objectives assigned by management </li><li>Travel to visit customers when necessary </li></ul>\n<b>Required Skills </b>\n\n<ul><li>Ability to work as part of a team to solve business and technical problems in varied political environments </li><li>Excellent verbal, written, presentation and interpersonal communication skills </li><li>Proven time management skills in a dynamic sales environment </li><li>Knowledge of related applications, relational databases, and web technology</li></ul>",
+            "HR_Hire_by_Date__c": "2016-12-07",
+            "HR_Location__c": "Boston, MA",
+            "HR_Rec_Open__c": "2016-09-08",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "External_ID__c": "HR_Job_Requisition__c.001"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef3"
             },
-            "Name": "Senior Sales Representative"
+            "Name": "Senior Sales Representative",
+            "HR_Hire_by_Date__c": "2017-01-21",
+            "HR_Location__c": "San Francisco",
+            "HR_Rec_Open__c": "2016-10-23",
+            "HR_Status__c": "Closed",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56148",
+            "External_ID__c": "HR_Job_Requisition__c.002"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef4"
             },
-            "Name": "Sales Associate"
+            "Name": "Sales Associate",
+            "HR_Description__c": "Serves customers by helping them select products.<br><br><b>Retail Customer Service Job Duties:</b>\n<ul><li>Welcomes customers by greeting them; offering them assistance.</li><li>Directs customers by escorting them to racks and counters; suggesting items.</li><li>Advises customers by providing information on products.</li><li>Helps customer make selections by building customer confidence; offering suggestions and opinions.</li><li>Documents sale by creating or updating customer profile records.</li><li>Processes payments by totaling purchases; processing checks, cash, and store or other credit cards.</li><li>Keeps clientele informed by notifying them of preferred customer sales and future merchandise of potential interest.</li><li>Contributes to team effort by accomplishing related results as needed.</li></ul>\n<br><b>Retail Salesperson Skills and Qualifications:</b>\n\n<ul><li>Listening, Customer Service, Meeting Sales Goals, Selling to Customer Needs, Product Knowledge, People Skills, Energy Level, Dependability, General Math Skills, Verbal Communication, Job Knowledge</li></ul>",
+            "HR_Hire_by_Date__c": "2016-12-07",
+            "HR_Location__c": "Seattle, WA",
+            "HR_Max_Pay__c": 65000,
+            "HR_Min_Pay__c": 50000,
+            "HR_Rec_Open__c": "2016-09-08",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Contractor",
+            "External_ID__c": "HR_Job_Requisition__c.003"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef5"
             },
-            "Name": "Customer Service Representative"
+            "Name": "Customer Service Representative",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "Las Vegas, NV",
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Closed",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "External_ID__c": "HR_Job_Requisition__c.004"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef6"
             },
-            "Name": "Business Analyst"
+            "Name": "Business Analyst",
+            "HR_Description__c": "The GCS Strategy, Reporting and Operations team is responsible for all operational aspects of the Global Corporate Services (GCS) group, including M&amp;A, metrics, data analytics, process and project management, systems and policies.  The Senior Business Analyst in the Strategy, Reporting and Operations (SRO) team will have diverse responsibilities primarily focused on technology and system implementations delivering automation and improving our operational infrastructure (Oracle, Coupa, salesforce.com, etc.), but also supporting key business and operational initiatives, KPI/metric analysis, and operational/executive reporting, among other critical activities.  The role will report to the Sr. Manager, GCS Technology within the SRO organization.  Salesforce.com is a fast-paced environment and we are looking for someone who can hit the ground running to manage multiple responsibilities and projects while producing high-quality work.<br><br><b>Responsibilities:</b>\n<ul><li>Drive systems-related project execution in direct partnership with IT; measure and document business results achieved through solution implementation</li><li>Maintain, document, and manage intake process of project requests for operational / system improvements and strategic initiatives</li><li>Advise the business on best practices and available tools to manage business processes and other strategic initiatives</li><li>Partner in the development and implementation of the GCS technology roadmap, including further integration into our salesforce.com platform</li><li>Drive partnership between IT (internal and external providers) and functional business owners </li><li>Identify areas of improvement to increase accuracy, completeness and/or consistency and implement solutions in process, policy, and overall operations of the GCS finance function</li><li>Administer GCS systems to support functional business processes as necessary</li><li>Support GCS metrics and executive reporting, including oversight of all data sources, content, methodologies, and calculations</li><li>Prepare presentations for the team and senior management highlighting performance in an easy-to-understand, executive-ready manner</li></ul>\n<b>Required Skills/Experience:</b>\n\n<ul><li>Bachelors&#39; degree in business or computer science</li><li>4+ years of Business Analyst experience, or focus in project/program management</li><li>Understanding of Procure to Pay functional disciplines (sourcing, purchasing, accounts payable) as well as travel, expense, accounts receivable, and credit and collections</li><li>Proficient in Microsoft Excel &amp; PowerPoint</li><li>Understanding of systems analysis, including root cause analysis and other process modeling and systems design methodologies</li></ul>\n<b>Project management skills</b>\n\n<ul><li>Excellent written and verbal communication skills</li><li>Ability to multi-task and perform effectively in a fast-paced environment</li><li>Able to think independently and consider cross-functional and downstream impacts</li></ul>\n<b>Desired Skills/Experience:</b>\n\n<ul><li>Systems Analyst or Consulting experience preferred</li><li>Advanced Knowledge of Business Systems - Salesforce.com (certification a plus), Oracle R12,  Coupa and emerging P2P platforms such as eprocurement, contract management, RFX tools, supplier relationship management (SRM), accounts payable, payment automation, etc. a huge plus.</li></ul>",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "Houston, TX",
+            "HR_Max_Pay__c": 110000,
+            "HR_Min_Pay__c": 90000,
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "123456",
+            "External_ID__c": "HR_Job_Requisition__c.005"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef7"
             },
-            "Name": "Senior Web Developer"
+            "Name": "Senior Web Developer",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Open",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "External_ID__c": "HR_Job_Requisition__c.006"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef8"
             },
-            "Name": "Project Architect"
+            "Name": "Project Architect",
+            "HR_Description__c": "The Project Architect functions as a liaison with management, analysts, and IT staff. The candidate assists in the development of projects specifications and the testing and implementation plans for Securities projects. The role tests programming changes in the Test Environment, analyzes results, identifies concerns and communicates findings. Additionally, the Project Analyst is responsible for writing intermediate to complex queries, building databases, and creating reports that are used in different areas within Securities to track critical data.   The Project Analyst will also be responsible for all Assets Under Management (AUM) reporting. This includes validating that all AUM position files are received from the various fund companies, unloading the files, cleaning-up all errors, and processing the files to complete the AUM process. <br><br><b>Essential Functions:</b>\n<ul><li>Performs systems and procedures analysis involved in testing</li><li>Plans and implements projects</li><li>Provides data analysis for management and other users</li><li>Assists vendors in ensuring projects are completed</li></ul>\n<b>Qualifications, Skills, and Abilities:</b>\n\n<ul><li>Bachelors’ Degree and/or 3 years relevant experience</li><li>Intermediate to Advanced database and query writing skills (SQL is preferred)</li><li>Experience using QMF, MSAccess, and/or ASG Safari (Dras) is a plus</li><li>Ability to create Web Applications is a plus</li><li>Math aptitude and basic accounting skills are a plus</li><li>Ability to lead projects from start to finish and work with extreme time sensitivity</li><li>Excellent presentation, organizational, verbal and written skills</li><li>Ability to work with programmers, coordinators, technical support staff, internal and external department management, and vendors</li><li>Strong organizational skills, including the ability to manage multiple tasks and projects simultaneously and meet strict guidelines</li><li>Ability to self-motivate and work in both a team environment and perform self-directed tasks</li></ul>",
+            "HR_Hire_by_Date__c": "2016-12-07",
+            "HR_Location__c": "Nashville, TN",
+            "HR_Max_Pay__c": 100000,
+            "HR_Min_Pay__c": 80000,
+            "HR_Rec_Open__c": "2016-09-08",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "External_ID__c": "HR_Job_Requisition__c.007"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef9"
             },
-            "Name": "Application Developer"
+            "Name": "Application Developer",
+            "HR_Description__c": "Are you excited about the opportunity to influence the software industry by being involved with visionary technologies and business ideas like APEX, PaaS (Platform as a Service), and the App Exchange? How about working on a system that performs over 180 million transactions per day?<br><br>If your answer is yes to any of these questions, this is your opportunity to join a dynamic Technology team at  salesforce.com , the market leader in cloud computing. Top technologists across the world join us for our &quot;change the world&quot; mentality; the opportunity to excel in a fast-paced, performance-based environment and the chance to be surrounded by peers and leaders that inspire, motivate, and innovate. <br>  <br>The team has immediate opportunities for extremely talented software developers who want their lines of code to have significant and measurable positive impact for users, the company&#39;s bottom line and the industry. You will be working with a group of world-class engineers to build the breakthrough features our customers will love, adopt and use while keeping our trusted platform stable and scalable. Please submit your resume today! <br><br><b>Responsibilities </b>\n<ul><li>Architect, design, and implement Service Cloud product applications. </li><li>Master our development process, culture and code base, and then improve it. </li><li>Value team excellence over individual productivity. </li><li>Work closely with a team of product managers, user experience experts, quality and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalable. </li><li>Have a passion for quality and writing clean, solid, readable code that scales and performs well. </li><li>Present your own designs to internal/external groups and review designs of others. </li><li>Adopt, embrace, and promote agile and test-driven practices with your peers. </li><li>Mentor others in development technologies, tools, and processes. </li><li>Develop test strategies and frameworks to drive up code coverage and automation metrics. </li><li>Contribute to the analysis of functional requirements. </li><li>Participate and promote architectural initiatives, balancing long-term velocity with short-term customer needs. </li></ul>\n<b>Experience/Skills Required </b>\n\n<ul><li>Professional track record of being a top performer in current and past roles. </li><li>Deep understanding of object-oriented design and programming concepts, and experience with at least one object-oriented programming language, such as Java, C#, C++. </li><li>Solid understanding of web technologies, such as HTTP, JavaScript, AJAX, HTML, DHTML, CSS). </li><li>Solid knowledge of SQL and understanding of relational databases. </li><li>Experience building Software-as-a-Service (SaaS) applications. </li><li>Excellent interpersonal and communication skills. </li><li>Bachelor&#39;s degree in Computer Sciences or equivalent field, plus 6+ years of relevant experience in the job offered, or as a Senior/Lead Member of Technical Staff, Senior/Lead Software Application Developer, Senior/Lead Software Developer, Senior/Lead Software Engineer or related software development occupation. </li></ul>\n<b>Experience/Skills Desired </b>\n\n<ul><li>Experience building highly scalable web applications. </li><li>Strong experience with front-end web tier (JavaScript, AJAX, HTML, CSS, and cross-browser development) and back-end (Java, SQL) software development. </li><li>Experience with Agile software development and test-driven development. </li><li>Master&#39;s degree in Computer Sciences or equivalent field. </li></ul>",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "Mountain View, CA",
+            "HR_Max_Pay__c": 180000,
+            "HR_Min_Pay__c": 160000,
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "External_ID__c": "HR_Job_Requisition__c.008"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef10"
             },
-            "Name": "Marketing Manager"
+            "Name": "Marketing Manager",
+            "HR_Description__c": "Are you a great marketer?  Passionate about cloud computing?  Inspired by technology disruption?<br><br>We&#39;re a global leader in customer relationship management (CRM) software. We pioneered the shift to cloud computing, and today we&#39;re delivering the next generation of social, mobile and cloud technologies that help companies revolutionize the way they sell, service, market and innovate-and become customer companies. We are the fastest growing of the top 10 enterprise software companies, the World&#39;s Most Innovative Company according to Forbes and one of Fortune&#39;s 100 Best Companies to Work For. Our &quot;more human, less corporate&quot; culture is built around doing work that matters, winning as a team and celebrating success Aloha-style. Ready to find your #dreamjob? <br> <br>This Product Marketing Manager will support the President of Products internal and external communications by developing compelling messaging consistent with corporate brand and direction.  Communication will come in the form of presentations, videos, email and social media.  Candidate must be able to tune into executive voice and style and bring fresh ideas on how to best to make an impact with our messages. <br> <br><b>Role and Responsibilities</b>\n<ul><li>Build executive-level presentations for the President of Products to describe the company&#39;s product vision and roadmap to customers, partners, analysts and internal audiences.  </li><li>Create powerful executive talk track to support speeches and interviews.</li><li>Write all-company executive email and social communications</li><li>Produce executive video series to provide clear priorities and fuel vital dialogue between President of Products and product and technology employees.</li><li>Bring strategic market data to life through compelling graphics.</li><li>Establish effective presentation frameworks for strategic product forums.</li><li>Manage cross-cloud product release plan process to identify top features in each cloud, gain alignment with executives, create new ways to communicate with key audiences and drive consistent messaging with customers and employees.</li></ul>\n<b>Required Skills / Experience</b>\n\n<ul><li>Excellent PowerPoint and Apple Keynote skills</li><li>Excellent graphic design and writing skills</li><li>Self-motivated individual capable of working in a face-paced, start-up environment</li><li>3+ years of experience in product or corporate marketing or creative agency  </li><li>Experience in developing innovative, compelling, and differentiated market positioning and presentations</li><li>Highly collaborative worker who knows how to drive toward high-quality outcomes</li></ul>",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 160000,
+            "HR_Min_Pay__c": 140000,
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Needs Approval",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "External_ID__c": "HR_Job_Requisition__c.009"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef11"
             },
-            "Name": "Business Reporting Developer"
+            "Name": "Business Reporting Developer",
+            "HR_Description__c": "Come work for us!",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "Houston, TX",
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Open",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "External_ID__c": "HR_Job_Requisition__c.010"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef12"
             },
-            "Name": "Web Developer"
+            "Name": "Web Developer",
+            "HR_Description__c": "Have you mastered the balance between creativity and technology? Do you want to be part of a company that is changing the way software is developed and used?<br><br>The Events Technology team is looking for an enthusiastic, experienced Senior Web Developer to help build and architect the technology behind our events properties, which are critical for marketing, campaigns and lead generation worldwide. You will work directly with internal marketing, events and technical teams, as well as external vendor teams, to create technical solutions that drive our events. This position is inside the IT organization, where Agile/Scrum methodologies are our lifeblood. <br><br><b>Responsibilities: </b>\n<ul><li>Develop standards-compliant HTML5 pages and modules, using Javascript and CSS3, on top of our CRM platform </li><li>Collaborate with team and external teams to deliver robust projects </li><li>Collaborate with peers on architectural topics </li><li>Be a team evangelist for best practices around coding, usability, security, performance of web pages.</li></ul>\n<b>Required Skills/Experience: </b>\n\n<ul><li>5+ years of experience working on large-scale, complex web applications </li><li>5+ years experience with HTML5, JavaScript and CSS3, especially use within larger reusable frameworks </li><li>Mobile web development and responsive web design experience </li><li>Developing cross-browser and cross-platform compatible solutions </li><li>Strong understanding of web page performance and security </li><li>Strong understanding of object oriented development concepts, MVC, and MVVM </li><li>Experience with Agile/Scrum </li><li>Must have strong verbal and written communication skills </li></ul>\n<b>Desired Skills/Experience: </b>\n\n<ul><li>Proficiency with component-driven frameworks (React.js or Angular.js) </li><li>  4+ years with Java Server Pages (JSP) </li></ul>",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "Phoenix, AZ",
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "77635",
+            "External_ID__c": "HR_Job_Requisition__c.011"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef13"
             },
-            "Name": "Senior Sales Engineer"
+            "Name": "Senior Sales Engineer",
+            "HR_Hire_by_Date__c": "2017-01-06",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Rec_Open__c": "2016-10-08",
+            "HR_Status__c": "Needs Approval",
+            "HR_Travel_Required__c": false,
+            "External_ID__c": "HR_Job_Requisition__c.012"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef14"
             },
-            "Name": "HR Analyst"
+            "Name": "HR Analyst",
+            "HR_Functional_Area__c": "Human Resources",
+            "HR_Hire_by_Date__c": "2016-12-08",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 115000,
+            "HR_Min_Pay__c": 85000,
+            "HR_Rec_Open__c": "2016-09-09",
+            "HR_Status__c": "New Position",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56144",
+            "External_ID__c": "HR_Job_Requisition__c.013"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef15"
             },
-            "Name": "Mobile Application Developer"
+            "Name": "Mobile Application Developer",
+            "HR_Description__c": "Are you excited about the opportunity to influence the software industry by being involved with visionary technologies and business ideas like APEX, PaaS (Platform as a Service), and the App Exchange? How about working on a system that performs over one billion transactions per day?<br><br>If your answer is yes to any of these questions, this is your opportunity to join a dynamic technology team at salesforce.com, the market leader in cloud computing. Top technologists across the world join us for our &quot;change the world&quot; mentality; the opportunity to excel in a fast-paced, performance-based environment and the chance to be surrounded by peers and leaders that inspire, motivate, and innovate.  <br><br>The Salesforce Mobile Applications team has immediate opportunities for extremely talented software developers who want their lines of code to have significant and measurable positive impact for users, the company&#39;s bottom line, and the industry. You will be working with a group of world-class engineers to build the breakthrough features our customers will love, adopt, and use, while keeping our trusted platform stable and scalable. Please submit your resume today! <br><br><b>Required Skills </b>\n<ul><li>Solid understanding of object-oriented programming </li><li>Extensive knowledge of Android SDK development experience, including best practices, APIs and libraries </li><li>Understanding wireless mobile networks, including WiFi and cellular (3G / 4G) </li><li>Thorough understanding of synchronous vs. asynchronous calls </li><li>Ability to build applications, install them on a device, and debug in tethered </li><li>mode </li><li>Excellent communication skills via email, instant messaging, conference calls, and </li><li>in-person </li><li>Thorough understanding of concurrency and the Android threading model </li><li>Bachelor&#39;s degree in computer science or equivalent experience </li></ul>\n<b>Desired Skills </b>\n\n<ul><li>Developed at least one complete network-based Android client application, available in the Google Play store </li><li>5 or more years of core Java development experience </li><li>Good understanding of localization issues on the device </li><li>Good understanding of the Android security model and best practices </li><li>Understanding of Android performance measurements, especially around UI scrolling performance and network use </li><li>Experience with hybrid native/web applications and WebViews </li><li>Understanding screen rotation handling and handling various screen form factors and densities in a single code base </li><li>Experience with Agile development methodology (e.g., Scrum) </li><li>Master&#39;s degree in computer science or equivalent experience </li></ul>",
+            "HR_Functional_Area__c": "Information Technology",
+            "HR_Hire_by_Date__c": "2016-12-08",
+            "HR_Location__c": "Austin, TX",
+            "HR_Max_Pay__c": 115000,
+            "HR_Min_Pay__c": 100000,
+            "HR_Rec_Open__c": "2016-09-09",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56146",
+            "External_ID__c": "HR_Job_Requisition__c.014"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef16"
             },
-            "Name": "Senior Strategic Account Manager Service Cloud"
+            "Name": "Senior Strategic Account Manager Service Cloud",
+            "HR_Functional_Area__c": "Sales Department",
+            "HR_Hire_by_Date__c": "2016-12-08",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 150000,
+            "HR_Min_Pay__c": 100000,
+            "HR_Rec_Open__c": "2016-09-09",
+            "HR_Status__c": "New Position",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56147",
+            "External_ID__c": "HR_Job_Requisition__c.015"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef17"
             },
-            "Name": "Senior Director, Product Marketing Sales Cloud"
+            "Name": "Senior Director, Product Marketing Sales Cloud",
+            "HR_Functional_Area__c": "Sales Department",
+            "HR_Hire_by_Date__c": "2016-12-08",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 150000,
+            "HR_Min_Pay__c": 100000,
+            "HR_Rec_Open__c": "2016-09-09",
+            "HR_Status__c": "New Position",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56133",
+            "External_ID__c": "HR_Job_Requisition__c.016"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef18"
             },
-            "Name": "Account Executive"
+            "Name": "Account Executive",
+            "HR_Description__c": "The Account Executive is reponsible for managing a large volume of smaller size opportunities within Enterprise clients. Partnering with our most seasoned sales executives this role will suit those who are looking to take their enterprise sales skills to the next level. With a sales model that fosters collaboration and supports your success, this is a great opportunity to forge a successful sales career.<br><br>With a business culture that has the customer&#39;s interests at the core of everything we do, we&#39;ll set you up for success by providing a comprehensive induction and on boarding to the business including a two week bootcamp in San Francisco. On top of your own business development we provide a range of support functions to help create and drive opportunities from internal sales support to highly skilled pre-sales so it is not just you against the world.<br><br><b>Responsibilities:</b>\n<ul><li>To exceed monthly / quarterly sales targets by selling Salesforce solutions into ECS accounts within an assigned within a sub set of major account/customer or vertical market.</li><li>You will manage the entire sales process to ensure delivery against key performance metrics, with a strong emphasis on new business sales, while expanding existing accounts.</li><li>Territory/ Vertical identification and research, to formalize a go to market strategy and create qualified target accounts.</li><li>Pipeline development through a combination of cold calling, email campaigns and market sector knowledge/intelligence.</li><li>Create and maintain a sales pipeline to ensure over-achievement within the designated market sector(s).</li><li>Engage with prospect organizations to position Salesforce. solutions through strategic value based selling, business case definition, ROI analysis, references and analyst data.</li><li>Manage the end to end sales process through engagement of appropriate resources such as Sales Engineers, Professional Services, Executives, Partners etc.</li><li>Generate short term results whilst maintaining a long term perspective to maximize overall revenue generation.</li><li>Daily update of the Salesforce system with accurate customer and pipeline data.</li><li>Accurate monthly forecasting and revenue delivery</li></ul>\n<b>Required Skills:</b>\n\n<ul><li>Extensive, relevant experience of selling enterprise software solutions gained within a major software vendor.</li><li>Successful history of net direct new business sales, with the ability to prove consistent delivery against targets.</li><li>Demonstrable track record of sales over achievement.</li><li>Credibility at all levels, including CxO.</li><li>Fluency in English language.</li><li>CRM application sales or vertical Industry sector experience would be viewed favourably.</li><li>Strong tenure with previous employers.</li></ul>",
+            "HR_Functional_Area__c": "Sales Department",
+            "HR_Hire_by_Date__c": "2016-11-08",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 180000,
+            "HR_Min_Pay__c": 100000,
+            "HR_Rec_Open__c": "2016-08-10",
+            "HR_Status__c": "Open - Approved",
+            "HR_Travel_Required__c": true,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56134",
+            "External_ID__c": "HR_Job_Requisition__c.017"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef19"
             },
-            "Name": "Senior Solution Engineer"
+            "Name": "Senior Solution Engineer",
+            "HR_Functional_Area__c": "Sales Department",
+            "HR_Hire_by_Date__c": "2016-12-08",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 135000,
+            "HR_Min_Pay__c": 95000,
+            "HR_Rec_Open__c": "2016-09-09",
+            "HR_Status__c": "Closed",
+            "HR_Travel_Required__c": true,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56136",
+            "External_ID__c": "HR_Job_Requisition__c.018"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef20"
             },
-            "Name": "Strategic Account Manager"
+            "Name": "Strategic Account Manager",
+            "HR_Functional_Area__c": "Sales Department",
+            "HR_Hire_by_Date__c": "2017-01-01",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 135000,
+            "HR_Min_Pay__c": 95000,
+            "HR_Rec_Open__c": "2016-10-03",
+            "HR_Status__c": "Pending Approval",
+            "HR_Travel_Required__c": true,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56137",
+            "External_ID__c": "HR_Job_Requisition__c.019"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef21"
             },
-            "Name": "Senior Product Manager"
+            "Name": "Senior Product Manager",
+            "HR_Functional_Area__c": "Software Engineering",
+            "HR_Hire_by_Date__c": "2017-01-07",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 200000,
+            "HR_Min_Pay__c": 100000,
+            "HR_Rec_Open__c": "2016-10-09",
+            "HR_Status__c": "New Position",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56138",
+            "External_ID__c": "HR_Job_Requisition__c.020"
         },
         {
             "attributes": {
                 "type": "HR_Job_Requisition__c",
                 "referenceId": "HR_Job_Requisition__cRef22"
             },
-            "Name": "Financial Analyst"
+            "Name": "Financial Analyst",
+            "HR_Functional_Area__c": "Information Technology",
+            "HR_Hire_by_Date__c": "2017-01-05",
+            "HR_Location__c": "San Francisco, CA",
+            "HR_Max_Pay__c": 95000,
+            "HR_Min_Pay__c": 75000,
+            "HR_Rec_Open__c": "2016-10-07",
+            "HR_Status__c": "New Position",
+            "HR_Travel_Required__c": false,
+            "HR_Type__c": "Full Time",
+            "Position_ID__c": "P-56140",
+            "External_ID__c": "HR_Job_Requisition__c.021"
         }
     ]
 }

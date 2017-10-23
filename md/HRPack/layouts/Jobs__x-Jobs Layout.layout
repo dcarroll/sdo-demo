@@ -87,7 +87,7 @@
     <platformActionList>
         <actionListContext>Record</actionListContext>
         <platformActionListItems>
-            <actionName>Jobs__x.RecordId_Test</actionName>
+            <actionName>Jobs__c.RecordId_Test</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>0</sortOrder>
         </platformActionListItems>

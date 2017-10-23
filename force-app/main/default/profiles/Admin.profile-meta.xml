@@ -10,15 +10,7 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    <classAccesses>
-        <apexClass>ReferralSubmit</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <custom>false</custom>
-    <externalDataSourceAccesses>
-        <enabled>false</enabled>
-        <externalDataSource>Workday</externalDataSource>
-    </externalDataSourceAccesses>
     <fieldPermissions>
         <editable>false</editable>
         <field>HR_Applicant__c.External_ID__c</field>
@@ -170,9 +162,9 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>HR_Job_Requisition__c.HR_Master_Job_Definition__c</field>
-        <readable>false</readable>
+        <editable>true</editable>
+        <field>HR_Job_Requisition__c.HR_Master_Job_Definition1__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -211,82 +203,82 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Compensation_frequency__c</field>
+        <field>Jobs__c.Compensation_frequency__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Currency__c</field>
+        <field>Jobs__c.Currency__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Employee_type__c</field>
+        <field>Jobs__c.Employee_type__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Grade_level__c</field>
+        <field>Jobs__c.Grade_level__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Id__c</field>
+        <field>Jobs__c.Id__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Job_category__c</field>
+        <field>Jobs__c.Job_category__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Job_code__c</field>
+        <field>Jobs__c.Job_code__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Job_description__c</field>
+        <field>Jobs__c.Job_description__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Job_family__c</field>
+        <field>Jobs__c.Job_family__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Job_status__c</field>
+        <field>Jobs__c.Job_status__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Job_title__c</field>
+        <field>Jobs__c.Job_title__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Maximum_salary__c</field>
+        <field>Jobs__c.Maximum_salary__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Mid_point_salary__c</field>
+        <field>Jobs__c.Mid_point_salary__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Minimum_salary__c</field>
+        <field>Jobs__c.Minimum_salary__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Standard_hours__c</field>
+        <field>Jobs__c.Standard_hours__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Jobs__x.Standard_work_period__c</field>
+        <field>Jobs__c.Standard_work_period__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -300,9 +292,9 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Referral__c.Job__c</field>
-        <readable>false</readable>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -319,26 +311,6 @@
         <field>Referral__c.Status__c</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Scores__x.Attribute__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Scores__x.Candidate__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Scores__x.Id__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Scores__x.Score__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>HR_Applicant__c-Applicant Layout</layout>
     </layoutAssignments>
@@ -346,13 +318,13 @@
         <layout>HR_Job_Requisition__c-Job Requisition Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Jobs__x-Jobs Layout</layout>
+        <layout>Jobs__c-Jobs Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Referral__c-Referral Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Scores__x-Scores Layout</layout>
+        <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -378,7 +350,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>Jobs__x</object>
+        <object>Jobs__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -388,15 +360,6 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Referral__c</object>
-        <viewAllRecords>true</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
-        <object>Scores__x</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <userLicense>Salesforce</userLicense>

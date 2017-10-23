@@ -6,5 +6,5 @@
     <label>HR</label>
     <tab>HR_Job_Requisition__c</tab>
     <tab>HR_Applicant__c</tab>
-    <tab>Jobs__x</tab>
+    <tab>Jobs__c</tab>
 </CustomApplication>

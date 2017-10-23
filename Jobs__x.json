@@ -1,0 +1,179 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef1"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Perm/FTE",
+            "Grade_level__c": "7",
+            "Id__c": 1,
+            "Job_category__c": "Sales",
+            "Job_code__c": "SAL-02933",
+            "Job_description__c": "Sales Engineers are the primary technical resource for the sales force. Sales Engineers are responsible for actively driving and",
+            "Job_family__c": "Sales Engineer",
+            "Job_status__c": "Active",
+            "Job_title__c": "Lead Sales Engineer",
+            "Maximum_salary__c": "160,000",
+            "Mid_point_salary__c": "125000",
+            "Minimum_salary__c": "100000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef2"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Perm/FTE",
+            "Grade_level__c": "6",
+            "Id__c": 2,
+            "Job_category__c": "Sales",
+            "Job_code__c": "SAL-12938",
+            "Job_description__c": "Serves customers by selling products; meeting customer needs.\r\rJob Duties:\r - Enhances sales staff accomplishments and competence by planning delivery of solutions; answering technical and procedural questions for less experienced team members; teaching improved processes; mentoring team members.\r - Services existing accounts, obtains orders, and establishes new accounts by planning and organizing daily work schedule to call on existing or potential sales outlets and other trade factors.\r - Adjusts content of sales presentations by studying the type of sales outlet or trade factor.\r - Focuses sales efforts by studying existing and potential volume of dealers.\r - Submits orders by referring to price lists and product literature.\r - Keeps management informed by submitting activity and results reports, such as daily call reports, weekly work plans, and monthly and annual territory analyses.\r - Monitors competition by gathering current marketplace information on pricing, products, new products, delivery schedules, merchandising techniques, etc.\r - Resolves customer complaints by investigating problems; developing solutions; preparing reports; making recommendations to management.\r - Maintains professional and technical knowledge by attending educational workshops; reviewing professional publications; establishing personal networks; participating in professional societies.",
+            "Job_family__c": "Account Executive",
+            "Job_status__c": "Active",
+            "Job_title__c": "Senior Account Executive",
+            "Maximum_salary__c": "200000",
+            "Mid_point_salary__c": "150000",
+            "Minimum_salary__c": "100000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef3"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Perm/FTE",
+            "Grade_level__c": "5",
+            "Id__c": 3,
+            "Job_category__c": "Finance",
+            "Job_code__c": "FIN-88383",
+            "Job_description__c": "Responsible for leading the annual budgeting and monthly forecasting processes, as well as performing financial analyses designed at increasing business insight and improving decision making.\r - Work directly with senior management on projects ranging from cost-saving measures to building planning and forecasting models.\r - Reconcile purchase requisitions and support the procurement process.",
+            "Job_family__c": "Accountant",
+            "Job_status__c": "Active",
+            "Job_title__c": "Financial Planning & Analysis Manager",
+            "Maximum_salary__c": "175000",
+            "Mid_point_salary__c": "120000",
+            "Minimum_salary__c": "75000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef4"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Perm/FTE",
+            "Grade_level__c": "6",
+            "Id__c": 4,
+            "Job_category__c": "Engineering",
+            "Job_code__c": "ENG-98746",
+            "Job_description__c": "Prepares computer programs by translating specifications into code; unit testing code.\r\rJob Duties:\r - Plans program by studying specifications.\r - Arranges specifications by developing logical sequence; preparing flowcharts; researching solutions.\r - Encodes specifications by converting logical sequence and workflow into program language.\r - Verifies encoding by performing trial runs; modifying code.\r - Prepares program reference by documenting control language.\r - Advances job knowledge to next level by participating in educational opportunities; reading professional publications.\r - Accomplishes department and organization mission by completing related results as needed.",
+            "Job_family__c": "Developer",
+            "Job_status__c": "Active",
+            "Job_title__c": "Senior Developer",
+            "Maximum_salary__c": "175000",
+            "Mid_point_salary__c": "152000",
+            "Minimum_salary__c": "120000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef5"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Perm/FTE",
+            "Grade_level__c": "7",
+            "Id__c": 5,
+            "Job_category__c": "Customer Service",
+            "Job_code__c": "CUS-44536",
+            "Job_description__c": "Serves customers by providing product and service information; resolving product and service problems.\r\rJob Duties\r - Attracts potential customers by answering product and service questions; suggesting information about other products and services.\r - Opens customer accounts by recording account information.\r - Maintains customer records by updating account information.\r - Resolves product or service problems by clarifying the customers complaint; determining the cause of the problem; selecting and explaining the best solution to solve the problem; expediting correction or adjustment; following up to ensure resolution.\r - Maintains financial accounts by processing customer adjustments.\r - Recommends potential products or services to management by collecting customer information and analyzing customer needs.\r - Prepares product or service reports by collecting and analyzing customer information.\r - Contributes to team effort by accomplishing related results as needed.",
+            "Job_family__c": "Customer Service Representative",
+            "Job_status__c": "Active",
+            "Job_title__c": "Lead Customer Service Representative",
+            "Maximum_salary__c": "110000",
+            "Mid_point_salary__c": "80000",
+            "Minimum_salary__c": "55000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef6"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Perm/FTE",
+            "Grade_level__c": "6",
+            "Id__c": 6,
+            "Job_category__c": "Engineering",
+            "Job_code__c": "ENG-88746",
+            "Job_description__c": "As Product Manager, you will guide a team that is charged with a product line contribution as a business unit. This extends from increasing the profitability of existing products to developing new products for the company. You will build products from existing ideas, and help to develop new ideas based on your industry experience and your contact with customers and prospects. You must possess a unique blend of business and technical savvy; a big-picture vision, and the drive to make that vision a reality. You must enjoy spending time in the market to understand their problems, and find innovative solutions for the broader market.\r\rJob Duties\r- Managing the entire product line life cycle from strategic planning to tactical activities\r - Specifying market requirements for current and future products by conducting market research supported by on-going visits to customers and non-customers.\r - Driving a solution set across development teams (primarily Development/Engineering, and Marketing Communications) through market requirements, product contract, and positioning.\r - Developing and implementing a company-wide go-to-market plan, working with all departments to execute.\r - Analyzing potential partner relationships for the product.",
+            "Job_family__c": "Product Manager",
+            "Job_status__c": "Active",
+            "Job_title__c": "Senior Product Manager",
+            "Maximum_salary__c": "160,000",
+            "Mid_point_salary__c": "125000",
+            "Minimum_salary__c": "100000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef7"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "v",
+            "Grade_level__c": "4",
+            "Id__c": 7,
+            "Job_category__c": "Marketing",
+            "Job_code__c": "MAR-89373",
+            "Job_description__c": "As a Product Marketing Manager, you will be responsible for the outbound marketing activities for your products. You will craft the messaging and positioning for products. You will conceive and develop innovative marketing programs that drive demand. Attention to detail and an eye for quality, along with the ability to grasp and translate technical capabilities into benefits is crucial.  In your role as a Product Marketing Manager you will be the expert in buyers, how they buy and their buying criteria and will transfer that knowledge to the sales channel. \r\rJob Duties\r- Develop product positioning and messaging that differentiates your products in the market\r - Sales enablement הףס communicate the value proposition of the products to the sales team and develop the sales tools that support the selling process of your products\r - Product launch הףס plan the launch of new products and releases and manage the cross-functional implementation of the plan\r - Market intelligence הףס be the expert on your buyers, how they buy and their buying criteria; be the expert on your competition and how to crush them\r - Demand generation הףס develop the strategy and manage the marketing programs that drive demand for your products",
+            "Job_family__c": "Product Marketing Manager",
+            "Job_status__c": "Active",
+            "Job_title__c": "Product Marketing Director",
+            "Maximum_salary__c": "160,000",
+            "Mid_point_salary__c": "125000",
+            "Minimum_salary__c": "100000",
+            "Standard_work_period__c": "Weekly"
+        },
+        {
+            "attributes": {
+                "type": "Jobs1__c",
+                "referenceId": "Jobs1__cRef8"
+            },
+            "Compensation_frequency__c": "Monthly",
+            "Currency__c": "USD",
+            "Employee_type__c": "Contractor",
+            "Grade_level__c": "8",
+            "Id__c": 8,
+            "Job_category__c": "Human Resources",
+            "Job_code__c": "HUM-38394",
+            "Job_description__c": "The human resource analyst position is responsible for performing human resource administrative work and providing analysis of various human resource programs and initiatives.\r\rJob Duties\r - Administers assigned functions, such as recruitment, classification review, compensation studies, employment analysis, leave and benefits administration.\r - Collects and analyzes data.\r - Tracks trends and developments in assigned functional areas.\r - Conducts studies, performs research and prepares reports.\r - Reviews, interprets and recommends policies.\r - Participates in working groups, councils and committees.\r - Ensures compliance with rules and regulations.\r - Assists with payroll administration.\r - Manages special projects.\r - Trains employees on various topics.",
+            "Job_family__c": "HR Analyst",
+            "Job_status__c": "Active",
+            "Job_title__c": "Associate HR Analyst",
+            "Maximum_salary__c": "80000",
+            "Mid_point_salary__c": "65000",
+            "Minimum_salary__c": "40000",
+            "Standard_hours__c": "40",
+            "Standard_work_period__c": "Weekly"
+        }
+    ]
+}

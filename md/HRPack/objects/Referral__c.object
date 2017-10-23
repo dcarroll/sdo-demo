@@ -96,7 +96,7 @@
         <externalId>false</externalId>
         <label>Job</label>
         <length>255</length>
-        <referenceTo>Jobs__x</referenceTo>
+        <referenceTo>Jobs__c</referenceTo>
         <relationshipLabel>Referrals</relationshipLabel>
         <relationshipName>Referrals</relationshipName>
         <trackFeedHistory>false</trackFeedHistory>

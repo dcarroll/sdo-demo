@@ -70,7 +70,7 @@
         <profile>Admin</profile>
     </profileActionOverrides>
     <tab>Referral__c</tab>
-    <tab>Jobs__x</tab>
+    <tab>Jobs__c</tab>
     <tab>standard-Feed</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>

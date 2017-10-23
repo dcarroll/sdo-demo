@@ -1,0 +1,66 @@
+sudo: true
+env:
+- URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
+before_install:
+- openssl aes-256-cbc -K $encrypted_575a7f776184_key -iv $encrypted_575a7f776184_iv
+  -in assets/server.key.enc -out assets/server.key -d
+- export SFDX_AUTOUPDATE_DISABLE=true
+- export SFDX_USE_GENERIC_UNIX_KEYCHAIN=true
+- export SFDX_DOMAIN_RETRY=300
+- wget -qO- $URL | tar xJf -
+- ./sfdx/install
+- export PATH=./sfdx/$(pwd):$PATH
+- sfdx force -h
+#- wget -qO- https://github.com/heroku/force/releases/download/v0.22.78/force_darwin_amd64
+#- sfdx plugins:install salesforcedx@41.2.0
+- sfdx --version
+- sfdx plugins --core
+- echo $USERNAME
+- echo $CONSUMERKEY
+- sfdx force:auth:jwt:grant --clientid $CONSUMERKEY --jwtkeyfile assets/server.key
+  --username $USERNAME --setdefaultdevhubusername -a HubOrg
+script:
+- source testing.sh
+# - sfdx force:org:open -u HubOrg
+# - sfdx force:project:create -n geolocation
+#- cd geolocation
+#- sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch
+#- sfdx force:limits:api:display -u ciorg
+#- sfdx force:source:push -u ciorg
+#- sfdx force:apex:test:run -u ciorg -c -r human
+#- sfdx force:org:delete -u ciorg -p
+
+- reset
+- sfdx force:org:create -s -f config/project-scratch-def.json -a GeoAppScratch
+- forceSetup
+- sfdx force:source:status
+- sfdx force:user:permset:assign -n Geolocation
+- sfdx force:source:pull
+- git init
+#- git remote add origin https://github.com/developerforce/th-smoke-test
+- git add .
+- git commit -m 'Add custom field and permset'
+#- git push origin master
+- forceAddAccounts
+- mkdir data
+- sfdx force:data:tree:export -q "SELECT Name, Location__Latitude__s, Location__Longitude__s FROM Account WHERE Location__Latitude__s != NULL AND Location__Longitude__s != NULL" -d data
+- sfdx force:data:tree:import --sobjecttreefiles data/Account.json
+- sfdx force:apex:class:create -n AccountController -d force-app/main/default/classes
+- cat assets/templates/AccountController.cls > force-app/main/default/classes/AccountController.cls
+- sfdx force:source:push
+- sfdx force:lightning:component:create -n AccountLocator -d force-app/main/default/aura
+- getAccountLocatorContent
+- sfdx force:source:push
+- forceCreateTab
+- sfdx force:source:pull
+- sfdx force:lightning:component:create -n AccountListItem -d force-app/main/default/aura
+- cat assets/templates/AccountListItem.cmp > force-app/main/default/aura/AccountListItem/AccountListItem.cmp
+- cat assets/templates/AccountListItem.css > force-app/main/default/aura/AccountListItem/AccountListItem.css
+- sfdx force:lightning:component:create -n AccountList -d force-app/main/default/aura
+- addAccountListContent
+- sfdx force:source:push
+- sfdx force:user:password:generate
+- sfdx force:user:display
+#- sfdx force:org:open
+- cleanUpAfterForce
+- echo "<end>"
