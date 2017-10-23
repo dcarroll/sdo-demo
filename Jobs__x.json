@@ -2,8 +2,8 @@
     "records": [
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef1"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef1"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -24,8 +24,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef2"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef2"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -46,8 +46,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef3"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef3"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -68,8 +68,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef4"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef4"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -90,8 +90,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef5"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef5"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -112,8 +112,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef6"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef6"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -134,8 +134,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef7"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef7"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",
@@ -155,8 +155,8 @@
         },
         {
             "attributes": {
-                "type": "Jobs1__c",
-                "referenceId": "Jobs1__cRef8"
+                "type": "Jobs__c",
+                "referenceId": "Jobs__cRef8"
             },
             "Compensation_frequency__c": "Monthly",
             "Currency__c": "USD",

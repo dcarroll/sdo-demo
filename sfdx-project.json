@@ -7,6 +7,14 @@
             "versionName": "v 0.1",
             "versionDescription": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "testconvert",
+            "default": false,
+            "id": "0Ho1I000000PAsSSAW",
+            "versionName": "v 0.1",
+            "versionDescription": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "namespace": "",
